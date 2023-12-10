@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500809295344",
+    "project_id": "socialbee-bba5f",
+    "storage_bucket": "socialbee-bba5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500809295344:android:f71c3eaa5872639702a935",
+        "android_client_info": {
+          "package_name": "com.example.socialbee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500809295344-eings2oegv57301ho2nb61vncmhb4rdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp1T6BDGju06EWWwPYym4eS0Xcl5v-fuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500809295344-eings2oegv57301ho2nb61vncmhb4rdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
